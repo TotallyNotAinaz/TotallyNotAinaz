@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Ainaz
-<img src="https://cdn.discordapp.com/emojis/1095001868524077067.gif?size=96&quality=lossless" height="32"/></h1>
+<img src="finger.gif" height="32"/></h1>
 <h3 align="center">A Rust and C# programmer from Russia</h3>
 <p align="center">
-  <img alt="Banner" src="https://media.discordapp.net/attachments/773625854533304320/1078271755963088956/kot_camp.gif">
+  <img alt="Banner" src="cats.gif">
 <p\>
 
 <div>
@@ -14,13 +14,13 @@
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
   <h3>My hobbies:</h4>
   <pre>
-    🎮Gaming • Creating games
-    🎧Listen to music
-    💻Programming
-    👺Anime • Manga
+    🎮Gaming • Creating games    Favourite Game - Katana Zero : OneShot
+    🎧Listen to music            Favourite Song - New Person, Same Old Mistakes by Tame Impala
+    💻Programming                Favourite Programming Language - Rust
+    👺Anime • Manga              Favourite Anime - Serial experiments Lain
   </pre>
 </div>
-<img src="https://media.tenor.com/UaIIq_D4xQQAAAAC/brown-recluse.gif" alt="cart pls" align="center">
+<img src="credit-card.gif">
 
 
 <!--
