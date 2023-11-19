@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Rust and C# programmer from Russia 🇷🇺</h3>
 <p align="center">
-  <img alt="Banner" src="https://media.tenor.com/1Ibyy90wEvQAAAAC/boykisser.gif">
+  <img alt="Banner" src="bocchi-the-rock-bocchi.gif">
 <p\>
 
 <!--
